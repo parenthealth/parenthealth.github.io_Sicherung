@@ -60,12 +60,11 @@ author:
   avatar : "/assets/images/bio-photo.jpg"
   bio    : "A DFG-funded project on the effects of parenthood on health behaviors."
   links:
-
     - label: "GitHub"
       icon: "fab fa-fw fa-github-square"
       url: "https://github.com/parenthealth"
     - label: "OSF"
-      icon: "ai ai-osf-square"
+      icon: "ai ai-osf"
       url: "https://osf.io/g9354/" 
 
 
