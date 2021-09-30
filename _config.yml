@@ -65,7 +65,7 @@ author:
       icon: "fab fa-fw fa-github-square"
       url: "https://github.com/parenthealth"
     - label: "OSF"
-      icon: "ai ai-osf"
+      icon: "ai ai-osf-square"
       url: "https://osf.io/g9354/" 
 
 
