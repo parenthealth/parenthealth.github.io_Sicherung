@@ -4,7 +4,11 @@ title: "About"
 ---
 
 <p>
-The project investigates how parenthood affects health behaviors of men and women like physical exercise, tobacco and alcohol use, or diet. It uses panel data from up to eight countries to track the effect of parenthood from pregnancy to children’s teenage years. Comparing the effect across social contexts defined by socio-economic status and family structure and across countries with specific institutional and cultural differences and similarities then sheds light on the role of social and societal contexts in moderating the parenthood effect.
+The project investigates how parenthood affects health behaviors of men and women like physical activity, substance use, diet, and sleep. 
+</p>
+
+<p>
+It uses panel data from up to seven countries to track the effect of parenthood from pregnancy to children’s teenage years. Comparing the effect across social contexts defined by socio-economic status and family structure and across countries with specific institutional and cultural differences and similarities then sheds light on the role of social and societal contexts in moderating the parenthood effect.
 </p>
 
 <p>
@@ -12,5 +16,5 @@ Research output from the project will be linked on this website. The code used t
 </p>
 
 <p>
-We are very grateful to the German Science Foundation (DFG) (and, therefore, the German taxpayers) for funding the project.
+We are very grateful to the German Science Foundation (DFG) for funding the project.
 </p>
