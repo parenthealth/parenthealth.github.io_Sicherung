@@ -62,11 +62,12 @@ author:
   links:
 
     - label: "GitHub"
-      icon: "far fa-file-pdf"
+      icon: "fab fa-fw fa-github-square"
       url: "https://github.com/parenthealth"
     - label: "OSF"
       icon: "ai ai-osf"
       url: "https://osf.io/g9354/" 
+
 
 footer:
   links:
