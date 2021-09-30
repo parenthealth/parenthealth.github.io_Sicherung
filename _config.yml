@@ -61,9 +61,6 @@ author:
   bio    : "A DFG-funded project on the effects of parenthood on health behaviors."
   links:
 
-    - label: "Twitter"
-      icon: "fab fa-fw fa-twitter"
-      url: "https://twitter.com/"
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
       url: "https://github.com/parenthealth"
