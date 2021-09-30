@@ -3,5 +3,7 @@ main:
     url: /about/
   - title: "Team"
     url: /team/
+  - title: "Output"
+    url: /output/  
   - title: "News"
     url: /posts/
