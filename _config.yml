@@ -48,7 +48,7 @@ include:
 
 # Plugins (previously gems:)
 plugins:
-#  - jekyll-paginate
+# - jekyll-paginatev2
   - jekyll-sitemap
   - jekyll-gist
 #  - jekyll-feed
